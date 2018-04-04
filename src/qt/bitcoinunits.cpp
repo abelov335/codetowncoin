@@ -45,13 +45,13 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("PuffCoin");
-    case mBTC: return QString("milliPuffCoin (1 / 1,000)");
-    case uBTC: return QString("microPuffCoin (1 / 1,000,000)");
+    case BTC: return QString("CodeTownCoin");
+    case mBTC: return QString("milliCodeTownCoin (1 / 1,000)");
+    case uBTC: return QString("microCodeTownCoin (1 / 1,000,000)");
     default: return QString("???");
     }
 }
-//a single unit (.00000001) of PuffCoin is called a "wander."
+//a single unit (.00000001) of CodeTownCoin is called a "wander."
 qint64 BitcoinUnits::factor(int unit)
 {
     switch(unit)

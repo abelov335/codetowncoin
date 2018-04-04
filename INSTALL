@@ -1,9 +1,9 @@
-Building PuffCoin
+Building CodeTownCoin
 
-See doc/readme-qt.rst for instructions on building puffcoin-qt,
+See doc/readme-qt.rst for instructions on building codetowncoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of PuffCoin.
+implementation of CodeTownCoin.
 
-See doc/build-*.txt for instructions on building puffcoin,
+See doc/build-*.txt for instructions on building codetowncoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of PuffCoin.
+implementation of CodeTownCoin.
